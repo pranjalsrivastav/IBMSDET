@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="26.696024">
+<testcase classname="Register on elearningm1 and send mail" name="User can successfully register and compose mail" time="26.696024">
+<system-out><![CDATA[Given launch the browser and hit the URL....................................passed
+When User hit the Signup....................................................passed
+And Fill the form and submit "pranjal", "ranjan","pranjalsdeto@jsw.com","pranjal7o","sdetlearn","91234567","English","1234","skype","linkedin".passed
+Then Verify user successfully resgistered...................................passed
+When Click on Inbox.........................................................passed
+And Compose a message.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
